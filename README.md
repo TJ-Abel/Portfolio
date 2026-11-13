@@ -36,7 +36,7 @@ open index.html
 
 ## 🧑‍💻 Author
 
-Emmanuel Abel (TJDev)
+Emmanuel Abel
 
 - GitHub: https://github.com/TJ-Abel
 - LinkedIn: https://www.linkedin.com/in/emmanuel-tjabel
@@ -50,9 +50,3 @@ You can easily host this portfolio online using GitHub Pages:
 2. Go to your repository’s Settings → Pages.
 3. Under Source, select the main branch and the / (root) folder.
 4. Click Save — your portfolio will be live in a few minutes.
-
-Your live site will be available at:
-
-```
-https://tj-abel.github.io/Portfolio/
-```
