@@ -2,7 +2,7 @@
 
 A sleek and responsive personal portfolio website built with HTML, CSS, and JavaScript — designed to highlight creativity, technical skills, and modern web development practices.
 
-```https://tj-abel.github.io/Portfolio/```
+```[https://tj-abel.github.io/Portfolio/](url)```
 
 ## 🚀 Features
 
